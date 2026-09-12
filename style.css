@@ -1,0 +1,9 @@
+/* Smooth scrolling for navigation */
+html {
+    scroll-behavior: smooth;
+}
+
+/* Custom font setup */
+body {
+    font-family: 'Inter', sans-serif;
+}
